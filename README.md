@@ -1,5 +1,9 @@
 # Animated Video Skill (Physical 2.5D Historical Map Animation)
 
+<p align="center">
+  <img src="assets/cover.jpg" alt="Animated Video Skill Cover" width="100%" />
+</p>
+
 [![Creator](https://img.shields.io/badge/Creator-rahulkumar-blue.svg)](https://github.com/RahulkumarRV)
 [![Credits](https://img.shields.io/badge/Credits-rahulkumar-brightgreen.svg)](https://github.com/RahulkumarRV)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
